@@ -21,7 +21,9 @@
     "axios": "^0.18.0",
     "dot-env": "0.0.1",
     "dotenv": "^6.0.0",
+    "file-system": "^2.2.2",
     "node-spotify-api": "^1.0.7",
+    "omdb": "^0.8.0",
     "request": "^2.87.0",
     "spotify": "^0.3.0",
     "twitter": "^1.7.1"
